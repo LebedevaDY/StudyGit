@@ -104,8 +104,14 @@
         },
         {
           "$type": "Sungero.Metadata.ControlGroupMetadata, Sungero.Metadata",
-          "NameGuid": "903b960c-d760-4d45-95db-ba5ee4f5cf49",
-          "Name": "AdditionalGroup"
+          "NameGuid": "1b5bb8e0-6cb3-4c8c-bbf7-911cb7174da9",
+          "Name": "AdditionalGroup",
+          "ColumnNumber": 0,
+          "ColumnSpan": 2,
+          "ParentGuid": "ee106327-ff56-47b6-9310-f87e8b3c627f",
+          "RowNumber": 4,
+          "RowSpan": 1,
+          "SharedNestedGroupsAlignment": true
         }
       ]
     }
