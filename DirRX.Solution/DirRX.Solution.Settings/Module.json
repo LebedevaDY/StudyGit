@@ -1,8 +1,12 @@
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
   "SettingsVersion": 0,
 =======
   "SettingsVersion": 1,
 >>>>>>> b10498b (Разработка абстрактного справочника)
+=======
+  "SettingsVersion": 0,
+>>>>>>> 0c28953 (Добавлено Примечание в TypeRequest)
   "NameGuid": "13e8b787-7077-4240-89c6-75774e584e2d"
 }
