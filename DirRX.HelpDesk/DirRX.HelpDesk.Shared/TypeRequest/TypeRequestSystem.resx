@@ -73,4 +73,7 @@
   <data name="Property_Code" xml:space="preserve">
     <value>Code</value>
   </data>
+  <data name="Property_Responsible" xml:space="preserve">
+    <value>Responsible</value>
+  </data>
 </root>
